@@ -1,4 +1,4 @@
-package braceChecker;
+package main.braceChecker;
 
 public class CleverBraceChecker {
     public boolean isValid(String braces) {

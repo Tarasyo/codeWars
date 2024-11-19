@@ -1,4 +1,4 @@
-package getJustNumbers;
+package main.getJustNumbers;
 
 import java.util.List;
 

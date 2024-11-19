@@ -1,4 +1,4 @@
-package Square;
+package main.Square;
 
 public class Square1 {
 

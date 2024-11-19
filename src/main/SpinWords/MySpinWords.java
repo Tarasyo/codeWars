@@ -1,4 +1,4 @@
-package SpinWords;
+package main.SpinWords;
 
 public class MySpinWords {
     public String spinWords(String sentence) {

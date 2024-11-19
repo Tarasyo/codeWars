@@ -1,4 +1,4 @@
-package firstNonRepeatingLetter;
+package main.firstNonRepeatingLetter;
 
 public class CleverFirstNonRepeatingLetter {
     public static String firstNonRepeatingLetter(String s){

@@ -1,4 +1,4 @@
-package Multiples;
+package main.Multiples;
 
 public class MyMultiples3and5 {
 

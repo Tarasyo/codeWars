@@ -1,4 +1,4 @@
-package SpinWords;
+package main.SpinWords;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

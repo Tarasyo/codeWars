@@ -1,4 +1,4 @@
-package isogram;
+package main.isogram;
 
 public class MyIsogram {
     public static boolean  isIsogram(String str) {

@@ -1,4 +1,4 @@
-package isogram;
+package main.isogram;
 
 public class BestIsogram {
     public static boolean  isIsogram(String str) {

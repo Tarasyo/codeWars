@@ -1,4 +1,4 @@
-package braceChecker;
+package main.braceChecker;
 
 import java.util.Stack;
 

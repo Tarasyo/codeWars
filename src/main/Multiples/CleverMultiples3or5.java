@@ -1,4 +1,4 @@
-package Multiples;
+package main.Multiples;
 
 import java.util.stream.IntStream;
 
