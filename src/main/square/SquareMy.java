@@ -1,4 +1,4 @@
-package main.Square;
+package main.square;
 
 public class SquareMy {
 

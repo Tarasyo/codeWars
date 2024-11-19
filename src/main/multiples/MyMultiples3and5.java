@@ -1,4 +1,4 @@
-package main.Multiples;
+package main.multiples;
 
 public class MyMultiples3and5 {
 
